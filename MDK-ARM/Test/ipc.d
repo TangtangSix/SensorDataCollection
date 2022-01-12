@@ -1,0 +1,10 @@
+test\ipc.o: ../Middlewares/Third_Party/RealThread_RTOS/src/ipc.c
+test\ipc.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+test\ipc.o: ../Inc/rtconfig.h
+test\ipc.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+test\ipc.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+test\ipc.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+test\ipc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+test\ipc.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+test\ipc.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+test\ipc.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h

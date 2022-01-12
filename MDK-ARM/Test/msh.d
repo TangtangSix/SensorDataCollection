@@ -1,0 +1,17 @@
+test\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/components/finsh/msh.c
+test\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+test\msh.o: ../Inc/rtconfig.h
+test\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+test\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+test\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+test\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+test\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+test\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+test\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/components/finsh/msh.h
+test\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh.h
+test\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+test\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+test\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+test\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+test\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+test\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/shell.h

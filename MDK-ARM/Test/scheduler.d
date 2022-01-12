@@ -1,0 +1,10 @@
+test\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/src/scheduler.c
+test\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+test\scheduler.o: ../Inc/rtconfig.h
+test\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+test\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+test\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+test\scheduler.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+test\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+test\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+test\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h

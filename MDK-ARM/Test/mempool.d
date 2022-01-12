@@ -1,0 +1,10 @@
+test\mempool.o: ../Middlewares/Third_Party/RealThread_RTOS/src/mempool.c
+test\mempool.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h
+test\mempool.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+test\mempool.o: ../Inc/rtconfig.h
+test\mempool.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+test\mempool.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+test\mempool.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+test\mempool.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+test\mempool.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+test\mempool.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h

@@ -1,0 +1,9 @@
+test\device.o: ../Middlewares/Third_Party/RealThread_RTOS/components/device/device.c
+test\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+test\device.o: ../Inc/rtconfig.h
+test\device.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+test\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+test\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+test\device.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+test\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+test\device.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h

@@ -1,0 +1,10 @@
+test\idle.o: ../Middlewares/Third_Party/RealThread_RTOS/src/idle.c
+test\idle.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h
+test\idle.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+test\idle.o: ../Inc/rtconfig.h
+test\idle.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+test\idle.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+test\idle.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+test\idle.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+test\idle.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+test\idle.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
